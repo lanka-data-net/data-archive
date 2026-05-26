@@ -1,26 +1,53 @@
-2025,26,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2026/01/26-2025_E.pdf"",""Strategic Development Projects (Amendment) Act"")",,
-2025,25,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2026/01/25-2025_E.pdf"",""Betting and Gaming Levy (Amendment) Act"")",,
-2025,24,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2026/01/24-2025_E.pdf"",""Social Security Contribution Levy (Amendment) Act"")",,
-2025,23,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2026/01/23-2025_E.pdf"",""Appropriation Act"")",,
-2025,22,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/11/22-2025_E.pdf"",""Personal Data Protection (Amendment) Act"")",,
-2025,21,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/11/21-2025_E.pdf"",""Convention against Doping in Sport (Amendment) Act"")",,
-2025,20,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/11/20-2025_E.pdf"",""National Building Research Institute Act"")",,
-2025,19,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/11/19-2025_E.pdf"",""National Audit (Amendment) Act"")",,
-2025,18,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/18-2025_E.pdf"",""Presidents Entitlements (Repeal) Act"")",,
-2025,17,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/17-2025_E.pdf"",""Gambling Regulatory Authority Act"")",,
-2025,16,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/16-2025_E.pdf"",""Rubber Control (Amendment) Act"")",,
-2025,15,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/15-2025_E.pdf"",""Samurdhi (Amendment) Act"")",,
-2025,14,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/14-2025_E.pdf"",""Sri Lanka Electricity (Amendment) Act"")",,
-2025,13,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/13-2025_E.pdf"",""Bills of Exchange (Amendment) Act"")",,
-2025,12,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/12-2025_E.pdf"",""Companies (Amendment) Act"")",,
-2025,11,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/11-2025_E.pdf"",""National Minimum Wage of Workers (Amendment) Act"")",,
-2025,10,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/10-2025_E.pdf"",""Budgetary Relief Allowance of Workers (Amendment) Act"")",,
-2025,9,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/09-2025_E.pdf"",""Budgetary Relief Allowance of Workers (Amendment) Act"")",,
-2025,8,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/08-2025_E.pdf"",""National Transport Commission (Amendment) Act"")",,
-2025,7,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/07-2025_E.pdf"",""Code of Criminal Procedure (Amendment) Act"")",,
-2025,6,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/06-2025_E.pdf"",""Foreign Loans (Repeal) Act"")",,
-2025,5,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/05-2025_E.pdf"",""Proceeds of Crime Act"")",,
-2025,4,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/04-2025_E.pdf"",""Value Added Tax (Amendment) Act"")",,
-2025,3,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/03-2025_E.pdf"",""Appropriation Act"")",,
-2025,2,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/02-2025_E.pdf"",""Inland Revenue (Amendment) Act"")",,
-2025,1,"=HYPERLINK(""https://lankalaw.net/wp-content/uploads/2025/09/01-2025_E.pdf"",""Local Authorities Elections (Special Provision) Act."")",,
+# Sri Lanka Acts Archive — 2025
+Structured legal dataset for easy access via GitHub and integration with legal intelligence systems such as LankaLaw.net, Lanka Data Net (LDN), and Chat2Find.
+
+## Dataset Structure
+
+| Year | Act No. | Title | PDF |
+|------|---------|-------|------|
+| 2025 | 26 | Strategic Development Projects (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2026/01/26-2025_E.pdf) |
+| 2025 | 25 | Betting and Gaming Levy (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2026/01/25-2025_E.pdf) |
+| 2025 | 24 | Social Security Contribution Levy (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2026/01/24-2025_E.pdf) |
+| 2025 | 23 | Appropriation Act | [View PDF](https://lankalaw.net/wp-content/uploads/2026/01/23-2025_E.pdf) |
+| 2025 | 22 | Personal Data Protection (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/11/22-2025_E.pdf) |
+| 2025 | 21 | Convention against Doping in Sport (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/11/21-2025_E.pdf) |
+| 2025 | 20 | National Building Research Institute Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/11/20-2025_E.pdf) |
+| 2025 | 19 | National Audit (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/11/19-2025_E.pdf) |
+| 2025 | 18 | Presidents Entitlements (Repeal) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/18-2025_E.pdf) |
+| 2025 | 17 | Gambling Regulatory Authority Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/17-2025_E.pdf) |
+| 2025 | 16 | Rubber Control (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/16-2025_E.pdf) |
+| 2025 | 15 | Samurdhi (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/15-2025_E.pdf) |
+| 2025 | 14 | Sri Lanka Electricity (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/14-2025_E.pdf) |
+| 2025 | 13 | Bills of Exchange (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/13-2025_E.pdf) |
+| 2025 | 12 | Companies (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/12-2025_E.pdf) |
+| 2025 | 11 | National Minimum Wage of Workers (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/11-2025_E.pdf) |
+| 2025 | 10 | Budgetary Relief Allowance of Workers (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/10-2025_E.pdf) |
+| 2025 | 9 | Budgetary Relief Allowance of Workers (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/09-2025_E.pdf) |
+| 2025 | 8 | National Transport Commission (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/08-2025_E.pdf) |
+| 2025 | 7 | Code of Criminal Procedure (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/07-2025_E.pdf) |
+| 2025 | 6 | Foreign Loans (Repeal) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/06-2025_E.pdf) |
+| 2025 | 5 | Proceeds of Crime Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/05-2025_E.pdf) |
+| 2025 | 4 | Value Added Tax (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/04-2025_E.pdf) |
+| 2025 | 3 | Appropriation Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/03-2025_E.pdf) |
+| 2025 | 2 | Inland Revenue (Amendment) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/02-2025_E.pdf) |
+| 2025 | 1 | Local Authorities Elections (Special Provision) Act | [View PDF](https://lankalaw.net/wp-content/uploads/2025/09/01-2025_E.pdf) |
+
+---
+
+## Data Source
+Official legal documents archived and indexed through:
+- LankaLaw.net
+- Lanka Data Net (LDN)
+- Chat2Find Legal Intelligence Layer
+
+## Usage
+This dataset can be used for:
+- Legal AI systems
+- Search indexing
+- NLP training
+- Legal research platforms
+- Open legal data initiatives
+- Regulatory intelligence systems
+
+## License
+Open Legal Data Initiative — Sri Lanka
